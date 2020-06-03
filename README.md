@@ -16,4 +16,4 @@ The data set contains over 3000 customers and 18 variables.
 
 
 ### Model Comparison
-![Visualization](result_summary.png)
+![Visualization](result summary.png)
