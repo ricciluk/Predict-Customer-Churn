@@ -7,9 +7,7 @@ The data set contains over 3000 customers and 18 variables.
 ### Classification Models
 This project uses three classfication models by tuning parameters and then compare the model results. 
 - Logistic Regression  
-The model summary result shows that many variables are not significantly related to the churning behaviour.
-
-
+The model summary result shows that many variables are not significantly related to the churning behaviour. The Logistic Regression performed far better for predicting positive response than for predicting negative response.
 
 
 ### Model Comparison
