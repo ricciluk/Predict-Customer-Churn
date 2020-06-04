@@ -5,8 +5,7 @@ A large telecommunication company is facing the issue that customers leaving for
 The data set contains over 3000 customers and 18 variables.
 
 ### Classification Models
-
-
+This project uses three classfication models by tuning parameters and then compare the model results. The models include Logistic Regression, Random Forest and Gradient Boosting Decision Tree.
 
 
 
